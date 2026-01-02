@@ -1,7 +1,7 @@
 **AgendaContactos**
 
-AgendaContactos es una aplicación desarrollada en C# que permite registrar, buscar, editar y eliminar contactos personales.
-El objetivo del proyecto es practicar la gestión de datos básicos y el uso de listas en C#, además de aplicar control de versiones con Git y GitHub.
+AgendaContactos desarrollada en C# que permite registrar, buscar, editar y eliminar contactos personales.
+El objetivo del proyecto es practicar la gestión de datos y el uso de listas en C#, además de aplicar control de versiones con Git.
 
 **Características principales**
 
